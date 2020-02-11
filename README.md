@@ -1,5 +1,5 @@
 # Webcam_Motion_Detector
-This program allows us to detect motion of an object across the frame and output the time interval of motion.The libraries used are opecv ad time.
+This program allows us to detect motion of an object across the frame and output the time interval of motion.The libraries used are opencv ad time.
 Videos here are treated as stack of pictures called frames.The intensity values of two frames are compared to detect an object.
 ### Python Code:
 Import the required libraries:
